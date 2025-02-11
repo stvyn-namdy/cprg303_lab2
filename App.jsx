@@ -11,3 +11,5 @@ function App() {
     </SafeAreaView>
   )
 }
+
+export default App;
